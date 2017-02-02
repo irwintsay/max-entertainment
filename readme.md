@@ -8,6 +8,8 @@
 * Reading API docs
 * Templating with Handlebars.js
 
+___
+
 Congratulations, Max Gershowitz was supremely impressed with the Shake's Peers website you built for him! Turns out Shake's Peers was just an audition - Max wants to hire you again!
 
 One of The Gersh's side hustles is running a legally questionable independent movie theater that screens movies from his personal torrent collection. Hmmm... seems unsavory, but as hungry junior web developers we'll have to look the other way for now.
