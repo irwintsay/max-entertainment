@@ -18,11 +18,9 @@ While functionality is critical, **design** is also important. Max insists that 
 
 ## Resources
 
-[OMDb API Reference](https://www.omdbapi.com/)
-
-[General jQuery AJAX](http://api.jquery.com/jquery.ajax/)
-
-[Handlebars.js](http://handlebarsjs.com/)
+* [OMDb API Reference](https://www.omdbapi.com/)
+* [General jQuery AJAX](http://api.jquery.com/jquery.ajax/)
+* [Handlebars.js](http://handlebarsjs.com/)
 
 ## Set Up
 
