@@ -1,0 +1,20 @@
+.nav {
+  width: 100%;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.nav form {
+  margin: 0 auto;
+  width: 200px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.items {
+  width: 30%;
+  text-align: center;
+}

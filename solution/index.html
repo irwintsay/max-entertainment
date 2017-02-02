@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Max Entertainment</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.6/handlebars.min.js" charset="utf-8"></script>
+  <script src="script.js" charset="utf-8" defer></script>
+</head>
+<body>
+  <div class="nav">
+    <h1>Max Entertainment</h1>
+    <form class="search-form">
+      <input type="input" name="search-field">
+      <input type="submit">
+    </form>
+  </div>
+  <main class="container">
+    <div class="search-result items">
+      <h2>Search Result</h2>
+    </div>
+    <div class="currently-playing items">
+      <h2>Currently Playing</h2>
+    </div>
+  </main>
+
+  <script id="search-template" type="text/x-handlebars-template">
+    <div>
+      <h2 class="result-title">{{ Title }} ({{ Year }})</h2>
+      <img class="result-img" src={{ Poster }}>
+      <button class="save-movie">Save</button>
+    </div>
+    <div>
+      <p>Director: {{ Director }}</p>
+      <p>Actors: {{ Actors }}</p>
+    </div>
+  </script>
+
+  <script id="current-template" type="text/x-handlebars-template">
+    <div class="saved-movie">
+      <h2>{{ title }}</h2>
+      <img src={{ image }}>
+    </div>
+  </script>
+
+</body>
+</html>
