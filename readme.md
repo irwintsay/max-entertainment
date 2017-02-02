@@ -52,4 +52,6 @@ Homework is due tonight by **11pm**. Follow the [Homework Guide](https://git.gen
 
 ## Bonus
 
-What happens if you search for something and it doesn't return a legitimate movie? It will still append to the page, and mess up the styling of subsequent movies. Add a conditional so that only searches with good results will append movie information to the page. `HINT` - checkout the `error` method in the jQuery AJAX docs.
+* What happens if you search for something and it doesn't return a legitimate movie? It will still append to the page, and mess up the styling of subsequent movies. Add a conditional so that only searches with good results will append movie information to the page. `HINT` - checkout the `error` method in the jQuery AJAX docs.
+
+* Make sure the website design is responsive.
