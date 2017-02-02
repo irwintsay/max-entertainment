@@ -14,8 +14,6 @@ One of The Gersh's side hustles is running a legally questionable independent mo
 
 Max wants a killer website that will help him manage his "independent" theater. The website should allow Max to search for movies and add it to his list of currently playing movies at the Max Entertainment Theater. Your website will make use of the **Open Movie Database API (OMDb API)** for movie data, AJAX for fetching data, and a combination of jQuery and Handlebars.js for templating that data onto the DOM.
 
-While functionality is critical, **design** is also important. Max insists that his website must accommodate his exquisite taste: classic post-modern retro (jk - just make it look nice).
-
 ## Resources
 
 * [OMDb API Reference](https://www.omdbapi.com/)
