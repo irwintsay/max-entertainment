@@ -1,6 +1,6 @@
 # Max Entertainment
 
-![Movies](http://i.giphy.com/3o6Ztl7RvfwCp9mqhW.gif)
+![Movies](https://i.giphy.com/3o6Ztl7RvfwCp9mqhW.gif)
 
 ## Learning Objectives
 
